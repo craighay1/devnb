@@ -1,0 +1,18 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_core.ipynb
+      - 01_plotting.ipynb
+                              - section: web_backend
+                                contents:
+                                  - env_devnb/lib/python3.8/site-packages/matplotlib/backends/web_backend/all_figures.html
+                                  - env_devnb/lib/python3.8/site-packages/matplotlib/backends/web_backend/ipython_inline_figure.html
+                                  - env_devnb/lib/python3.8/site-packages/matplotlib/backends/web_backend/nbagg_uat.ipynb
+                                  - env_devnb/lib/python3.8/site-packages/matplotlib/backends/web_backend/single_figure.html
+                                  - section: dir
+                                    contents:
+                                      - env_devnb/lib/python3.8/site-packages/tornado/test/static/dir/index.html
+                              - section: templates
+                                contents:
+                                  - env_devnb/lib/python3.8/site-packages/tornado/test/templates/utf8.html
