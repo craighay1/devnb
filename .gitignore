@@ -1,5 +1,7 @@
 # env
 env_devnb
+docs
+site_libs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
